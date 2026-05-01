@@ -1,6 +1,6 @@
 {
   "name": "Agora Camera Card",
-  "description": "A Lovelace card for Home Assistant that streams cameras using the Agora RTC protocol (Yuka Mini, Tuya Agora cameras).",
+  "description": "Lovelace card for Agora cameras (Yuka Mini)",
   "render_readme": true,
   "hacs": "1.0.0",
   "homeassistant": "2023.1.0",
